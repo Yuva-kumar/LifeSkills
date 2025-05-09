@@ -41,7 +41,6 @@ Imagine a library system that uses a REST API:
 
 While REST is simple and uses HTTP, SOAP (Simple Object Access Protocol) is a more complex system with strict standards. SOAP is good for services requiring high security, but REST is easier to use and is preferred for most web and mobile applications.
 
-
 ### References
 
 * [REST Architecture Explained - YouTube](https://www.youtube.com/watch?v=k2AR9hINWLs&t=151s)
